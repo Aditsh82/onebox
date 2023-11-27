@@ -1,0 +1,13 @@
+Important steps and wokring for aws
+
+First relase work
+https://aws.amazon.com/blogs/machine-learning/intelligent-document-processing-with-amazon-textract-amazon-bedrock-and-langchain/
+https://ai.meta.com/tools/faiss/#:~:text=FAISS%20(Facebook%20AI%20Similarity%20Search,more%20scalable%20similarity%20search%20functions.
+https://python.langchain.com/docs/modules/data_connection/retrievers/
+
+
+Testract implementation and limitations
+https://docs.aws.amazon.com/prescriptive-guidance/latest/patterns/automatically-extract-content-from-pdf-files-using-amazon-textract.html
+https://aws.amazon.com/blogs/machine-learning/automatically-extract-text-and-structured-data-from-documents-with-amazon-textract/
+https://docs.aws.amazon.com/textract/latest/dg/async.html
+https://aws.amazon.com/getting-started/hands-on/extract-text-with-amazon-textract/
